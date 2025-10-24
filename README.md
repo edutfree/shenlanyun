@@ -17,16 +17,91 @@
 
 ### 深蓝云套餐价格
 
-| **套餐分类** | **流量款** | **常规款** | **VIP** |
-| --- | --- | --- | --- |
-| **1个月** | /   | 19.9元 | 29.9元 |
-| **6个月** | /   | 119元 | 179元 |
-| **12个月** | 88  | 239元 | 359元 |
-| **月流量** | **400G/年** | 100G | 300G |
-| **速率** | 1000M | 1000M | 1000M |
-| **在线设备数** | 不限制 | 不限制 | 不限制 |
-| **流媒体解锁** | 支持  | 支持  | 支持  |
-| **套餐详情** | 全IEPL专线不过墙直连境外  <br>解锁20+条国际专线及流媒体服务  <br>TLS1.3加密，保护隐私安全 |     |     |
+<table>
+    <thead>
+        <tr>
+            <th>
+                <strong>套餐分类</strong>
+            </th>
+            <th>
+                <strong>流量款</strong>
+            </th>
+            <th>
+                <strong>常规款</strong>
+            </th>
+            <th>
+                <strong>VIP</strong>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <strong>1个月</strong>
+            </td>
+            <td>/</td>
+            <td>19.9元</td>
+            <td>29.9元</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>6个月</strong>
+            </td>
+            <td>/</td>
+            <td>119元</td>
+            <td>179元</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>12个月</strong>
+            </td>
+            <td>88</td>
+            <td>239元</td>
+            <td>359元</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>月流量</strong>
+            </td>
+            <td><b id = "red">400G/年</b></td>
+            <td>100G</td>
+            <td>300G</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>速率</strong>
+            </td>
+            <td>1000M</td>
+            <td>1000M</td>
+            <td>1000M</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>在线设备数</strong>
+            </td>
+            <td>不限制</td>
+            <td>不限制</td>
+            <td>不限制</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>流媒体解锁</strong>
+            </td>
+            <td>支持</td>
+            <td>支持</td>
+            <td>支持</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>套餐详情</strong>
+            </td>
+            <td colspan="3">
+                全IEPL专线不过墙直连境外
+                <br>解锁20+条国际专线及流媒体服务
+                <br>TLS1.3加密，保护隐私安全</td>
+        </tr>
+    </tbody>
+</table>
 
 ## 深蓝云优惠码
 
