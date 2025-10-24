@@ -55,7 +55,7 @@
             <td>
                 <strong>12个月</strong>
             </td>
-            <td>88</td>
+            <td>88元</td>
             <td>239元</td>
             <td>359元</td>
         </tr>
