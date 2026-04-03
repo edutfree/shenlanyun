@@ -1,6 +1,16 @@
 # 深蓝云(shenlanyun)官网 最新地址
 
-永久官网：[https://www.shenlanyun.org](https://d.shenlanyun.org/#/register?code=PJ6e3TV9)
+永久官网：[https://www.shenlanyun.org](https://www.slcloud.org/#/register?code=PJ6e3TV9)
+
+## 深蓝云优惠码
+
+不定期更新优惠活动信息。
+
+深蓝云2026年4月促销，所有套餐均享受8折优惠！
+
+优惠码：[春风拂面](https://www.slcloud.org/#/register?code=PJ6e3TV9)
+
+注意：更换其他套餐会覆盖当前账号套餐，流量将重置，以新套餐为准。
 
 ## 深蓝云(shenlanyun)简介
 
@@ -102,13 +112,3 @@
         </tr>
     </tbody>
 </table>
-
-## 深蓝云优惠码
-
-不定期更新优惠活动信息。
-
-深蓝云2025双十一促销，所有套餐均享受8折优惠！
-
-优惠码：[1111](https://d.shenlanyun.org/#/register?code=PJ6e3TV9)
-
-注意：更换其他套餐会覆盖当前账号套餐，流量将重置，以新套餐为准。
